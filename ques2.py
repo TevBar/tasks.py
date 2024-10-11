@@ -1,0 +1,6 @@
+#task1ques2
+
+PI_VALUE = 3.14
+USER_AGE = 25
+USER_LOCATION = "New York"
+MAX_LIMIT = 1000
